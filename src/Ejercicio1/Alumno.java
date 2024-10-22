@@ -1,5 +1,6 @@
+package Ejercicio1;
+
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class Alumno {
     private String nombreCompleto;

@@ -1,3 +1,5 @@
+package Ejercicio1;
+
 public class Nota {
     private String catedra;
     private double notaExamen;
